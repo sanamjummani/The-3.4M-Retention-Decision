@@ -94,7 +94,7 @@ Airbnb earns 15% of every booking. When a host leaves, that revenue disappears p
 <br/>
 
 <!-- LIVE DASHBOARD LINK -->
-<a href="https://sanamjummani.github.io/The--3.4M-Retention-Decision/airbnb_retention_dashboard.html">
+<a href="https://sanamjummani.github.io/The--3.4M-Retention-Decision">
 <table cellspacing="0" cellpadding="0" style="background:#0A1628;border:1px solid #C9A84C;max-width:420px;margin:0 auto 16px auto">
 <tr>
 <td style="padding:12px 24px">
@@ -426,7 +426,7 @@ This project derives that bar individually for each of the 1,312 properties — 
 </svg>
 </td>
 <td style="padding:2px 0 18px 10px">
-<code>airbnb_retention_dashboard.html</code> &nbsp;·&nbsp; <a href="https://sanamjummani.github.io/The--3.4M-Retention-Decision/airbnb_retention_dashboard.html" style="color:#C9A84C;font-size:13px">Live →</a><br/>
+<code>airbnb_retention_dashboard.html</code> &nbsp;·&nbsp; <a href="https://sanamjummani.github.io/The--3.4M-Retention-Decision" style="color:#C9A84C;font-size:13px">Live →</a><br/>
 <span style="color:#8A94A6;font-size:13px">Interactive dashboard — gift distribution, revenue tiers, feature importance, and the full decision breakdown. Opens directly in any browser with no setup required.</span>
 </td>
 </tr>
