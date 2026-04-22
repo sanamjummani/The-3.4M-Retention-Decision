@@ -94,7 +94,7 @@ Airbnb earns 15% of every booking. When a host leaves, that revenue disappears p
 <br/>
 
 <!-- LIVE DASHBOARD LINK -->
-<a href="https://sanamjummani.github.io/The--3.4M-Retention-Decision">
+<a href="https://sanamjummani.github.io/The-3.4M-Retention-Decision/">
 <table cellspacing="0" cellpadding="0" style="background:#0A1628;border:1px solid #C9A84C;max-width:420px;margin:0 auto 16px auto">
 <tr>
 <td style="padding:12px 24px">
